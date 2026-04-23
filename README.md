@@ -27,3 +27,13 @@ Output:
 - Reversed: 654  
 - Digit Sum: 15  
 - Palindrome: No
+
+## Example Run
+Choice: 2  
+Enter a positive integer: 456  
+
+Result:
+- Reversed: 654  
+- Digit Sum: 15  
+- Palindrome: No  
+- Saved to file
