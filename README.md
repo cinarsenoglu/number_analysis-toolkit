@@ -22,13 +22,6 @@ A modular C program that performs number analysis using multiple functions.
    ./program.exe
 
 ## Example
-Input: 456  
-Output:
-- Reversed: 654  
-- Digit Sum: 15  
-- Palindrome: No
-
-## Example Run
 Choice: 2  
 Enter a positive integer: 456  
 
